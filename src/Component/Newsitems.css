@@ -1,0 +1,10 @@
+.news-card-container {
+    max-width: 100%;
+    margin: 10px auto;
+    padding: 10px;
+  }
+  
+  .news-card-image {
+    width: 100%;
+   
+  }
